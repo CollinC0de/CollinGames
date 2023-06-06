@@ -3,12 +3,12 @@
   display: grid;
 }
 .container {
-  grid-gap: 10px 10px;
+  grid-gap: 5px 5px;
   height: 90vh;
   margin: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 .cell {
   color: white;
