@@ -4,10 +4,10 @@
 }
 .container {
   grid-gap: 5px;
-  height: 90vh;
+  height: 100%;
   margin: 2rem;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 .cell {
@@ -15,8 +15,8 @@
   font-size: 3rem;
   text-align: center;
   padding: 4rem;
-  width: 55px;
-  height:55px;
+  width: 150px;
+  height:150px;
 }
 .cell-1 {
   background: ;
