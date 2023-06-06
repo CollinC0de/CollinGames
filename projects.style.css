@@ -3,7 +3,7 @@
   display: grid;
 }
 .container {
-  grid-gap: 5px 5px;
+  grid-gap: 5px;
   height: 90vh;
   margin: 2rem;
   display: grid;
