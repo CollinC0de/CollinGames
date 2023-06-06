@@ -1,6 +1,6 @@
 
 .img {
-  display: grid;
+  display: grid flex;
 }
 .container {
   grid-gap: 5px;
