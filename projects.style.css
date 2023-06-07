@@ -1,12 +1,4 @@
-{
-  border-radius: 25px;
-  background: url(paper.gif);
-  background-position: left top;
-  background-repeat: repeat;
-  padding: 20px; 
-  width: 200px;
-  height: 150px;  
-}
+ }
 h1 {
   color: purple;
 }
@@ -27,10 +19,10 @@ img {
   color: white;
   font-size: 3rem;
   text-align: center;
-  padding: 4rem;
+  padding: 20px;
   width: 275px;
   height:175px;
-  border-radius: 12px;
+  border-radius: 25px;
 }
 .cell-1 {
   background: ;
